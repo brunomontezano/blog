@@ -7,12 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Hugo XMin</title>
+      <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+      <description>My name is Bruno Montezano. There is some info about me on the homepage.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Bruno Braga Montezano Contact Information and Social Media Email: bmontezano@hcpa.edu.br
+Homepage: https://bmontezano.netlify.app
+GitHub: @brunomontezano
+LinkedIn: @bmontezano
+ResearchGate: @Bruno-Braga-Montezano
+ORCID: 0000-0002-4627-1776
+Bio Research Interests Precision psychiatry; machine learning; mood disorders; bipolar disorder; data visualization.
+Education Background   2022 &amp;mdash; current: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
+  2016 &amp;mdash; 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas Alegre, Rio Grande do Sul, Brazil</description>
     </item>
     
   </channel>

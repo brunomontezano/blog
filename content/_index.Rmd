@@ -8,4 +8,17 @@ title: Home
 
 ## _Psychologist and Data Analyst_
 
-This website contains my personal blog.
+I'm currently pursuing a Master of Science degree in
+[Psychiatry and Behavioral Sciences](https://www.ufrgs.br/ppgpsiquiatria/) at
+[Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial).
+I earned my Bachelor of Science in Psychology from the
+[Catholic University of Pelotas](https://ucpel.edu.br/) (2021).
+I also earned my Computer Technician degree from the
+[Federal Institute of Education, Science and Technology of Rio Grande do Sul](https://ifrs.edu.br/) (2015).
+I perform data analysis with big data and bleeding edge machine learning
+techniques within the mental health area, what's being called as "precision
+psychiatry".
+I'm a big fan of FOSS technologies, Linux, statistical programming,
+reproducible science, chess and a nice tea.
+
+### Posts
