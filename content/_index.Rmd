@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/brunomontezano)
+[<img src="profile.jpg" style="max-width:25%;min-width:40px;float:right; border-radius: 50%;" alt="Github repo" />](https://github.com/brunomontezano)
 
 # BRUNO MONTEZANO
 
