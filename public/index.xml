@@ -12,7 +12,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Bruno Montezano. There is some info about me on the homepage.</description>
+      <description>My name is Bruno Montezano. I&amp;rsquo;m pursuing my MSc in Psychiatry and Behavioral Sciences at the Federal University of Rio Grande do Sul (UFRGS).
+There&amp;rsquo;s more info about me on the homepage and my curriculum.
+Contact You can contact on GitHub (I code almost daily). You can subscribe to the RSS feed of the blog posts.
+You can also find me on LinkedIn, ResearchGate.
+About this website This site is created with blogdown (base on Hugo) and the theme is hugo-xmin, a Hugo theme ported by Yihui.</description>
     </item>
     
     <item>
@@ -27,9 +31,10 @@ GitHub: @brunomontezano
 LinkedIn: @bmontezano
 ResearchGate: @Bruno-Braga-Montezano
 ORCID: 0000-0002-4627-1776
-Bio Research Interests Precision psychiatry; machine learning; mood disorders; bipolar disorder; data visualization.
-Education Background   2022 &amp;mdash; current: MSc in Psychiatry and Behavioral Sciences, Department of Psychiatry, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
-  2016 &amp;mdash; 2021: BSc in Psychology, Department of Psychology, Catholic University of Pelotas, Pelotas Alegre, Rio Grande do Sul, Brazil</description>
+Publons: Bruno Braga Montezano
+Google Scholar: Bruno Braga Montezano
+Lattes Curriculum: 5680118320056968
+Bio Currently, I am pursuing a Master&amp;rsquo;s degree at the Federal University of Rio Grande do Sul in the Postgraduate Program in Psychiatry and Behavioral Sciences (CAPES 7 concept) as a Master&amp;rsquo;s Scholar. I have a Technical Course in Computer Science from the Federal Institute of Education, Science and Technology of Rio Grande do Sul - Câmpus Ibirubá (2015) and a Degree in Psychology from the Catholic University of Pelotas (2021).</description>
     </item>
     
   </channel>
