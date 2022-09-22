@@ -4,6 +4,10 @@ title: Curriculum Vitae
 
 # Bruno Braga Montezano
 
+### CV in PDF
+
+You can access it [here](/cv.pdf).
+
 ### Contact Information and Social Media
 
 Email: bmontezano@hcpa.edu.br
@@ -95,15 +99,21 @@ Scientific Initiation, Federal University of Rio Grande.
 
 ### Publications
 
+#### Journal articles
+
+[Bartz de Ávila, G., **Montezano, B. B.**, Dias de Mattos Souza, L., de Azevedo Cardoso, T., Azevedo da Silva, R., Mondin, T. C., ...Jansen, K. (2022). Personality disorders as predictors for the conversion from major depressive disorder to bipolar disorder: A prospective cohort study. Psychiatry Research Communications, 2(3), 100068. doi: 10.1016/j.psycom.2022.100068](https://doi.org/10.1016/j.psycom.2022.100068)
+
+[Fialho, A. R., **Montezano, B. B.**, Ballester, P. L., de Azevedo Cardoso, T., Mondin, T. C., Moreira, F. P., ...Jansen, K. (2022). Predicting 3-year persistent or recurrent major depressive episode using machine learning techniques. Psychiatry Research Communications, 2(3), 100055. doi: 10.1016/j.psycom.2022.100055](http://dx.doi.org/10.1016/j.psycom.2022.100055)
+
+[Aguiar, K. R. d., Cabelleira, M. D., **Montezano, B. B.**, Jansen, K., & de Azevedo Cardoso, T. (2021). Sleep alterations as a predictor of bipolar disorder among offspring of parents with bipolar disorder: a systematic review and meta-analysis. Trends Psychiatry Psychother., 43, 256–269. doi: 10.47626/2237-6089-2021-0256](http://dx.doi.org/10.47626/2237-6089-2021-0256)
+
 #### Book chapters
 
-[**MONTEZANO, BB.**; JANSEN, K; CARDOSO, TA.; SOUZA, LDM; SILVA, RA; MONDIN, TC. Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens. In: Ezequiel Martins Ferreira. (Org.). Psicologia: Identidade Profissional e Compromisso Social 2. 1ed. Ponta Grossa: Atena Editora, 2021, v., p. 181-186.](http://dx.doi.org/10.22533/at.ed.400212903)
+[**Montezano, B. B.**; Jansen, K; Cardoso, T. A.; Souza, L. D. M.; Silva, R. A.; Mondin, T. C.. Relação entre abuso e dependência de substância e transtorno bipolar em uma amostra comunitária de jovens. In: Ezequiel Martins Ferreira. (Org.). Psicologia: Identidade Profissional e Compromisso Social 2. 1ed. Ponta Grossa: Atena Editora, 2021, v., p. 181-186.](http://dx.doi.org/10.22533/at.ed.400212903)
 
-#### Papers
+#### Preprints
 
-[FIALHO, AMANDA RODRIGUES; **Montezano, Bruno Braga**; BALLESTER, PEDRO LEMOS; DE AZEVEDO CARDOSO, TAIANE; MONDIN, THAÍSE CAMPOS; MOREIRA, FERNANDA PEDROTTI; DIAS DE MATTOS SOUZA, LUCIANO; AZEVEDO DA SILVA, RICARDO; JANSEN, KAREN. Predicting 3-year persistent or recurrent major depressive episode using machine learning techniques. Psychiatry Research Communications, v. 2, p. 100055, 2022.](http://dx.doi.org/10.1016/j.psycom.2022.100055)
-
-[AGUIAR, KYARA RODRIGUES DE; CABELLEIRA, MARIANA DIAS; **Montezano, Bruno Braga**; CARDOSO, TAIANE DE AZEVEDO; JANSEN, KAREN. Sleep alterations as a predictor of bipolar disorder among offspring of parents with bipolar disorder: a systematic review and metanalysis. TRENDS IN PSYCHIATRY AND PSYCHOTHERAPY, v. 43, p. 256-269, 2021.](http://dx.doi.org/10.47626/2237-6089-2021-0256)
+[**Montezano, B. B.**, de A. Cardoso, T., de Mattos Souza, L. D., Moreira, F. P., Mondin, T. C., da Silva, R. A., & Jansen, K. (2022). Associations between general sleep quality and measures of functioning and cognition in subjects recently diagnosed with bipolar disorder. medRxiv, 2022.07.24.22277972. Retrieved from https://doi.org/10.1101/2022.07.24.22277972](https://doi.org/10.1101/2022.07.24.22277972 )
 
 ### Professional Experience
 
