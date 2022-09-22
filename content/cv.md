@@ -6,11 +6,11 @@ title: Curriculum Vitae
 
 ### CV in PDF
 
-You can access it [here](/cv.pdf).
+You can access it [here](/pdf/cv.pdf).
 
 ### Contact Information and Social Media
 
-Email: bmontezano@hcpa.edu.br
+Email: [bmontezano@hcpa.edu.br](mailto:bmontezano@hcpa.edu.br)
 
 Homepage: https://bmontezano.netlify.app
 
@@ -53,11 +53,12 @@ learning, mainly in the development of classification models for outcomes in the
 area of ​​mental health. I perform data analysis with big data and bleeding edge
 machine learning techniques within the mental health area at the Molecular
 Psychiatry Laboratory at Hospital de Clínicas de Porto Alegre, in addition to
-performing scientific writing activities, reviewing articles for two
-periodicals, The R Journal (in the R programming area focused on machine
-learning, psychiatry/psychology, epidemiology and cohort studies) and The
+performing scientific writing activities, reviewing articles for three
+journals, The R Journal (in the R programming area focused on machine
+learning, psychiatry/psychology, epidemiology and cohort studies), The
 Journal of Open Source Software (participating in the review of papers in the
-field of open source software focused on data analysis). I also participate in
+field of open source software focused on data analysis) and the Brazilian Journal
+of Psychiatry (on mood disorders and machine learning). I also participate in
 the research group Alliance (Artificial Intelligence in Neuroscience)
 coordinated by Dr. Ives Cavalcante Passos. Within the programming area, I have
 extensive experience and familiarity with the R programming language and
