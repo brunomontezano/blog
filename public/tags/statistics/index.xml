@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statistics on Bruno Montezano</title>
+    <link>/tags/statistics/</link>
+    <description>Recent content in statistics on Bruno Montezano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to generate a normal distribution with R</title>
+      <link>/post/2022/09/22/how-to-generate-a-normal-distribution-with-r/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022/09/22/how-to-generate-a-normal-distribution-with-r/</guid>
+      <description>What is a normal distribution? When studying statistics, we often hear a term called normal distribution. But what is it?
+It is a type of continuous probability distribution for a random variable.
+It is important to represent real-valued random variables in many contexts, including biostatistics and health sciences, because we often can&amp;rsquo;t know the true distribution from what these characteristics come from. And we should be able to further understand the importance of this concept when we study the central limit theorem, stating that under some conditions, the average of many observations of a random variable with finite mean and variance is also a random variable, converging into a normal distribution.</description>
+    </item>
+    
+  </channel>
+</rss>
